@@ -1,0 +1,1 @@
+# diif-b-w-sum-of-1-2-part-of-array.py
